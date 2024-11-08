@@ -1,9 +1,9 @@
 // Lista de productos (puedes añadir más productos aquí)
 const products = [
-  { id: 1, name: "Pizza Margarita", description: "Pizza con tomate, queso y albahaca", price: 12 },
-  { id: 2, name: "Ensalada César", description: "Ensalada con lechuga, pollo y crutones", price: 8 },
-  { id: 3, name: "Pasta Carbonara", description: "Pasta con salsa de queso y bacon", price: 10 },
-  { id: 4, name: "Sopa de Tomate", description: "Sopa cremosa de tomate", price: 6 }
+  { id: 1, name: "Hamburguesa isleña", description: "Pan de hamburguesa mas adicion de carne de 105 gramos y una rodaja de piña caramelizada", price: 12 },
+  { id: 2, name: "Hamburguesa costeña", description: "Pan de hamburguesa mas adicion de carne de 105 gramos, mas adicion patacon y queso costeño ", price: 12 },
+  { id: 3, name: "Hamburguesa doble", description: "pan de hamburguesa con adicion de dos porciones de carne de 105 gramos", price: 15 },
+  { id: 4, name: "Choripan", description: "pan de perro con adicion de dos porciones de chorizo", price: 10 }
 ];
 
 // Función para mostrar los productos
